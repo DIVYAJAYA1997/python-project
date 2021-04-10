@@ -1,0 +1,9 @@
+n1=int(input("ENTER A NUM"))
+n2=int(input("ENTER A NUM"))
+n3=int(input("ENTER A NUM"))
+if((n1>n2) | (n1>n3)):
+    print("n1 is larger")
+elif((n2>n1) | (n2>n3)):
+    print("n2 is larger")
+else(n3>n1) & (n3>n2):
+    print("n3 is larger")
