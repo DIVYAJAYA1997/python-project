@@ -1,0 +1,63 @@
+#d1{
+    background-color: rgb(248, 245, 240);
+    position: absolute;
+    margin-left:35%;
+    margin-top:2%;
+    width:400px;
+    height:400px;
+}
+#st1{
+    padding-left:25%;
+    padding-top:4%
+}
+#bt1{
+    background-color: rgb(228, 240, 240);
+    position:absolute;
+    top:30%;
+    left:12%;
+    height:10%;
+    width:75%
+}
+#bt2{
+    background-color: rgb(228, 240, 240);
+    position:absolute;
+    top:42%;
+    left:12%;
+    height:10%;
+    width:75%
+}
+.bt3{
+    position:absolute;
+    top:56%;
+    left:12%;
+    height:10%;
+    width:75%
+}
+.icon{
+    position:absolute;
+    top:75%;
+    left:25%;
+}
+.lin{
+    position:absolute;
+    top:74%;
+    left:30%;
+}
+.lin2{
+    position:absolute;
+    top:85%;
+    left:30%;
+}
+#d2{
+    background-color: rgb(248, 245, 240);
+    position: absolute;
+    bottom:5%;
+    left:35%;
+    width:400px;
+    height:85px
+}
+p{
+    position: absolute;
+    left:16%;
+    top:15%
+}
